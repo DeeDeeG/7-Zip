@@ -1,6 +1,6 @@
 # 7-Zip with an enhanced SFX component
 
-![ ](http://www.7-zip.org/7ziplogo.png)
+![""](http://www.7-zip.org/7ziplogo.png)
 
 For more than a decade now, Git for Windows made use of the "modified SFX" that used to be available from http://7zsfx.info. Sadly, that project seems to have gone defunct some time during 2016 and nobody seems to know why.
 
